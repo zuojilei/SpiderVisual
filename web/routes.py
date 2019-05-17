@@ -3,7 +3,7 @@
 # @Time   : 2018/10/06
 # @File   : urls.py
 
-from controller.index import *
+from web.controller.index import *
 
 # '''
 # 路由列表
